@@ -2,14 +2,15 @@ package ru.geekbrains.core_1.lessons.lesson_1;
 
 public class HomeWorkApp {
     public static void main(String[] args){
-       // printThreeWords();
-        //checkSumsign(-5,5);
+       //printThreeWords();
+        checkSumsign(-5,5);
         //printColor();
-        compareNumbers();
+        //compareNumbers();
+                    }
 
 
 
-            }
+
 
     public static void printThreeWords(){
         System.out.println("Orange");
